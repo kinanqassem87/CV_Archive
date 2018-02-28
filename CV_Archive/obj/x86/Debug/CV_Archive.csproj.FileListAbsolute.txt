@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\bin\Debug\CV_Archive.exe
+c:\users\user\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\bin\Debug\CV_Archive.pdb
+c:\users\user\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.exe
+c:\users\user\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.pdb
+c:\users\user\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.PL.FRM_Main.resources
+c:\users\user\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.PL.FRM_SignIN.resources
+c:\users\user\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.PL.FRM_ChangPassword.resources
+C:\Users\User\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.PL.Frm_AddNewDoc.resources
+C:\Users\User\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.PL.Frm_About.resources
+C:\Users\User\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.PL.Frm_DocManagement.resources
+C:\Users\User\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.PL.Frm_ImgDoc.resources
+C:\Users\User\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.PL.Frm_DisplayAllDoc.resources
+C:\Users\User\documents\visual studio 2010\Projects\CV_Archive\CV_Archive\obj\x86\Debug\CV_Archive.PL.Frm_BackupData.resources
